@@ -16,7 +16,7 @@ menuitems:
 - name:     归档
   url:      /category.html
   class:    leo-nav-item
-- name:     豆豆
+- name:     爱唯侦察
   url:      /andy.html
   class:    leo-nav-item
 - name:     联系我
