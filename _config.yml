@@ -1,5 +1,5 @@
-name: leo
-email: jutleo@gmail.com
+name: fwyang
+email: 419143040@qq.com
 markdown: redcarpet
 pygments: false
 encoding: utf-8
@@ -7,8 +7,8 @@ encoding: utf-8
 paginate: 9
 
 author:
-  name: leo
-  email: jutleo@gmail.com
+  name: fwyang
+  email: 419143040@qq.com
 menuitems:
 - name:     首页
   url:      /
